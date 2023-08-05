@@ -1,3 +1,4 @@
+print('Write two numbers')
 num1 = input()
 num2 = input()
 product = num1 * num2
